@@ -8,7 +8,7 @@ Statistics:
 
 Happy path:
 - Java 17
-- IntelliJ IDEA
+- IntelliJ IDEA (https://www.jetbrains.com/idea/)
 - Spring-* (Spring-boot-*)
 - Maven
 - JUnit + Mockito
