@@ -6,7 +6,7 @@ Referencies:
 Statistics: 
 - https://www.jetbrains.com/lp/devecosystem-2022/java/#:~:text=For%20many%20years%2C%20Java%208,their%20applications%20to%20different%20versions.
 
-Happy path:
+Stick to:
 - Java 17
 - IntelliJ IDEA (https://www.jetbrains.com/idea/)
 - Spring-* (Spring-boot-*)
