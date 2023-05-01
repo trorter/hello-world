@@ -1,3 +1,3 @@
 - Java 17: https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/what-is-corretto-17.html
-- Download Paga: https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html
-- Download for Windows: https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi
+- Download Page: https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html
+- Download Page for Windows: https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi
